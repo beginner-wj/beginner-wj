@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 打字机动态标题 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+beginner;Full-stack+Developer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+beginner-wj;Full-stack+Developer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 
 <!-- 头部装饰线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -13,7 +13,7 @@
 
 ```yaml
 const developer = {
-    name: "beginner",
+    name: "beginner-wj",
     role: "Full-Stack Developer",
     language: ["JavaScript", "Python", "Go", "Rust"],
     currently_learning: "Rust 🦀 + Distributed Systems",
@@ -86,22 +86,22 @@ const developer = {
 <div align="center">
 
 <!-- 统计卡片 + 贡献图,双栏布局 -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=beginner&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="beginner's GitHub stats" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beginner&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="beginner's top languages" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=beginner-wj&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="beginner-wj's GitHub stats" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beginner-wj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="beginner-wj's top languages" />
 
 <br/><br/>
 
 <!-- 贡献蛇动画 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beginner/beginner/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beginner/beginner/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/beginner/beginner/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beginner-wj/beginner-wj/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beginner-wj/beginner-wj/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/beginner-wj/beginner-wj/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 <br/>
 
 <!-- 连续贡献热力图 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=beginner&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF" alt="beginner's activity graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=beginner-wj&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF" alt="beginner-wj's activity graph" width="95%" />
 
 </div>
 
@@ -115,11 +115,11 @@ const developer = {
 
 <div align="center">
 
-<a href="https://github.com/beginner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beginner&repo=beginner&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+<a href="https://github.com/beginner-wj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beginner-wj&repo=beginner-wj&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
 </a>
-<a href="https://github.com/beginner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beginner&repo=beginner&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+<a href="https://github.com/beginner-wj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beginner-wj&repo=beginner-wj&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
 </a>
 
 </div>
@@ -134,16 +134,16 @@ const developer = {
 
 <div align="center">
 
-<a href="https://github.com/beginner"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:beginner@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://twitter.com/beginner"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://www.linkedin.com/in/beginner"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://t.me/beginner"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://github.com/beginner-wj"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:beginner-wj@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://twitter.com/beginner-wj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://www.linkedin.com/in/beginner-wj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://t.me/beginner-wj"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
 <br/><br/>
 
 <!-- 终端风格的访问者统计 -->
-<img src="https://komarev.com/ghpvc/?username=beginner&label=PROFILE+VIEWS&style=for-the-badge&color=00D9FF&logo=github&labelColor=0D1117" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=beginner-wj&label=PROFILE+VIEWS&style=for-the-badge&color=00D9FF&logo=github&labelColor=0D1117" alt="Profile views" />
 
 </div>
 
@@ -155,6 +155,6 @@ const developer = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- 底部签名 -->
-<p><samp><i>⭐️ From <a href="https://github.com/beginner">beginner</a> with 💙 · Last updated: <!-- last-updated -->2026</i></samp></p>
+<p><samp><i>⭐️ From <a href="https://github.com/beginner-wj">beginner-wj</a> with 💙 · Last updated: <!-- last-updated -->2026</i></samp></p>
 
 </div>
