@@ -6,10 +6,18 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch: # 也允许手动触发
 
+# 关键:授予对仓库内容的写权限,否则 push 到 output 分支会报 exit code 128
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # 显式 checkout,确保有完整 git 历史
+      - name: Checkout
+        uses: actions/checkout@v4
+
       # 生成贡献蛇动画
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
